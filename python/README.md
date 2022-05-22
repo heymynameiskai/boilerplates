@@ -1,4 +1,6 @@
-# Boilerplate for Python Project
+# Python
 
-`chmod 755 setup.sh
-./setup.sh`
+```
+chmod 755 setup.sh
+./setup.sh
+```
