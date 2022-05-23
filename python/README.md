@@ -1,6 +1,23 @@
 # Python
 
+## Installation & Setup
+Install Pyenv and setup python version
+
 ```
-chmod 755 setup.sh
+./install.sh
 ./setup.sh
 ```
+
+
+## Usage
+- List all installable versions `pyenv install -l`
+- Install version `pyenv install <version>`
+- Select version for current shell `pyenv shell <version>`
+- Select version for directory `pyenv local <version>`
+- Select version globally `pyenv global <version>`
+
+
+
+## Further Reading
+- [Overview of Python Virtual Environments](https://gist.github.com/wronk/a902185f5f8ed018263d828e1027009b)
+- [Pyenv on GitHub](https://github.com/pyenv/pyenv)
