@@ -1,11 +1,12 @@
 # Template for Python
+This is a template for a simple python project.
 
 ## Installation & Setup
 Install Pyenv and setup python version
 
 ```
-./install.sh
-./setup.sh
+./setup/install.sh
+./setup/setup.sh
 ```
 
 
